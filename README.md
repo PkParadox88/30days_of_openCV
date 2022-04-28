@@ -17,3 +17,8 @@ Day11 : Edge Detection,Dilation, Erosion
 Day13 : Understanding and sorting contours<br>
 Day14 : Matching contours<br>
 Day15 : <b>Project 2  - Identifying Countours by shape</b><br>
+Day16 : Hough Lines<br>
+<p>Day17 : Blob detection <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <b>Project 3 - Counting Circle with blobs</b></p>
+<p>Day18 : Corner detection <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <b>Project 4 - Finding Waldo</b></p>
+Day19 : SIFT, SURF, FAST, BRIEF & ORB<br>
+Day20 : <b>Project 4 - Object Detection using SIFT & ORB</b><br>
