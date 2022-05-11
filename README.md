@@ -28,6 +28,7 @@ Day23 : <b>Project 6 - Car and Pedestrian Detection</b><br>
 Day24 : Face Landmarks, Filters and Face Swap<br>
 Day25 : <b>Project 7 - Live Face Swapper</b><br>
 Day26 : <b>Project 8 - Yawn Detector and Counter</b><br>
-<p>Day27 :  <b>Project 9 - Handwritten Digit Recognition</b><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>Project 10 - Face Recognition – Unlock Your Computer With Your Face</b><br></p>
+Day27 :  <b>Project 9 - Handwritten Digit Recognition</b><br><br>
+Day28 : <b>Project 10 - Face Recognition – Unlock Your Computer With Your Face</b><br>
 Day29 : Object Tracking and Photo Denoising<br>
 Day30 : <b>Project 11 - Photo Restoration using inpainting</b><br>
