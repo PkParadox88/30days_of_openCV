@@ -27,4 +27,7 @@ Day22 : HAAR Cascade Classifiers & Face, Eye Detection<br>
 Day23 : <b>Project 5 - Car and Pedestrian Detection</b><br>
 Day24 : Face Landmarks, Filters and Face Swap<br>
 Day25 : <b>Project 6 - Live Face Swapper</b><br>
-Day26 : Yawn Detector and Counter<br>
+Day26 : <b>Project 7 - Yawn Detector and Counter</b><br>
+<p>Day27 :  <b>Project 8 - Handwritten Digit Recognition</b><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <b>Project 9 - Face Recognition – Unlock Your Computer With Your Face</b><br></p>
+Day29 : Object Tracking and Photo Denoising<br>
+Day30 : <b>Project 8 - Photo Restoration using inpainting</b><br>
