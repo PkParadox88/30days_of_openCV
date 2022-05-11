@@ -21,13 +21,13 @@ Day16 : Hough Lines<br>
 <p>Day17 : Blob detection <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <b>Project 3 - Counting Circle with blobs</b></p>
 <p>Day18 : Corner detection <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <b>Project 4 - Finding Waldo</b></p>
 Day19 : SIFT, SURF, FAST, BRIEF & ORB<br>
-Day20 : <b>Project 4 - Object Detection using SIFT & ORB</b><br>
+Day20 : <b>Project 5 - Object Detection using SIFT & ORB</b><br>
 Day21 : Histogram of Oriented Gradients (HOGs)<br>
 Day22 : HAAR Cascade Classifiers & Face, Eye Detection<br>
-Day23 : <b>Project 5 - Car and Pedestrian Detection</b><br>
+Day23 : <b>Project 6 - Car and Pedestrian Detection</b><br>
 Day24 : Face Landmarks, Filters and Face Swap<br>
-Day25 : <b>Project 6 - Live Face Swapper</b><br>
-Day26 : <b>Project 7 - Yawn Detector and Counter</b><br>
-<p>Day27 :  <b>Project 8 - Handwritten Digit Recognition</b><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>Project 9 - Face Recognition – Unlock Your Computer With Your Face</b><br></p>
+Day25 : <b>Project 7 - Live Face Swapper</b><br>
+Day26 : <b>Project 8 - Yawn Detector and Counter</b><br>
+<p>Day27 :  <b>Project 9 - Handwritten Digit Recognition</b><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>Project 10 - Face Recognition – Unlock Your Computer With Your Face</b><br></p>
 Day29 : Object Tracking and Photo Denoising<br>
-Day30 : <b>Project 8 - Photo Restoration using inpainting</b><br>
+Day30 : <b>Project 11 - Photo Restoration using inpainting</b><br>
